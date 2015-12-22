@@ -1,0 +1,28 @@
+name: Crude Art
+favicon: null
+layout_spectrum: 0.08830695925280452
+typography_spectrum: 0.7175295443739742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.437466450734064
+  lightness: 0.8010991630144417
+  saturation: 0.3742252422962338
+  rhythmicContrast: 0.37834485922940075
+purpose: []
